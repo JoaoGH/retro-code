@@ -6,3 +6,9 @@ Decidi guarda-los aqui para manter uma lembrança dos meus primeiros códigos de
 
 O curso realizado no ensino médio foi o de Ensino Médio Técnico Integrado em Informática no IFSul - Campus Sapiranga/RS,
 com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
+
+
+## Conteúdo do Repositório
+
+- [Primeiro Algoritmo](./primeiro-algoritmo) - Primeiro algoritmo desenvolvido.
+
