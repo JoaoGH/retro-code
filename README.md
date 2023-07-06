@@ -11,4 +11,5 @@ com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
 ## Conteúdo do Repositório
 
 - [Primeiro Algoritmo](./primeiro-algoritmo) - Primeiro algoritmo desenvolvido.
+- [Ordem Crescente](./ordem-crescente) - Ordenação de valores inteiros.
 
