@@ -13,3 +13,4 @@ com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
 - [Primeiro Algoritmo](./primeiro-algoritmo) - Primeiro algoritmo desenvolvido.
 - [Ordem Crescente](./ordem-crescente) - Ordenação de valores inteiros.
 - [Professor](./professor) - Calcula o salário com abono de um professor.
+- [Desconto INSS](./desconto-inss) - Calcula o salário com o desconto do INSS.
