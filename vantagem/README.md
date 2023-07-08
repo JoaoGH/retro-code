@@ -1,4 +1,4 @@
-# Custo Combustível
+# Vantagem
 Esse algoritmo realiza o calculo se é mais vantajoso abastecer com gasolina ou alcool.
 
 Os valores de entrada esperados são: preço por litro da gasolina e alcool.
