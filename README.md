@@ -17,3 +17,4 @@ com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
 - [Mais Crédito](./mais-credito) - Calcula abono de crédito para um cliente.
 - [Custo Combustível](./custo-combustivel) - Calcula o quantos litros de combustível serão consumidos.
 - [Vantagem](./vantagem) - Calcula qual o combustível mais vantajoso para abastecer.
+- [Converter Graus](./graus) - Realiza a conversão de Fahrenheit para Celsius.
