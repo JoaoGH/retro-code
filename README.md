@@ -1,4 +1,4 @@
-# Retro- Code
+# Retro-Code
 Retro-Code é uma coleção de scripts simples que desenvolvi durante o período de ensino médio. Esses scripts são projetos
 de programação que refletem meu progresso daquela época. 
 
