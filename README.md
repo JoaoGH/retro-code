@@ -16,3 +16,4 @@ com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
 - [Desconto INSS](./desconto-inss) - Calcula o salário com o desconto do INSS.
 - [Mais Crédito](./mais-credito) - Calcula abono de crédito para um cliente.
 - [Custo Combustível](./custo-combustivel) - Calcula o quantos litros de combustível serão consumidos.
+- [Vantagem](./vantagem) - Calcula qual o combustível mais vantajoso para abastecer.
