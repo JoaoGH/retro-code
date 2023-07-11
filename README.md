@@ -19,3 +19,4 @@ com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
 - [Vantagem](./vantagem) - Calcula qual o combustível mais vantajoso para abastecer.
 - [Converter Graus](./graus) - Realiza a conversão de Fahrenheit para Celsius.
 - [Loop infinito](./teste) - Fica em loop infinito.
+- [Plano de Saude](./plano-de-saude) - Calcula valor de um plano de saúde.
