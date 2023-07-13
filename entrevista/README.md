@@ -9,4 +9,4 @@ Após realizar a pesquisa com as 3 pessoas são exibidos os dados totais, quanto
 idade, total de desempregrados e total de pessoas entrevistadas.
 
 ---
-O script foi desenvolvido no dia 27/05/2023 na cadeira de Lógica de Programação ministrada pelo Prof. Maurício Santos.
+O script foi desenvolvido no dia 27/05/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Maurício Santos.

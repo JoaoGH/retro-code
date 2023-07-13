@@ -7,4 +7,4 @@ Usa estrutura de repetição no código para manter o programa em loop até que 
 
 
 ---
-O script foi desenvolvido no dia 13/05/2023 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
+O script foi desenvolvido no dia 13/05/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.

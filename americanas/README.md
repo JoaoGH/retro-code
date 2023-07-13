@@ -12,4 +12,4 @@ loja.
 Usa estrutura de repetição no código para manter o programa em loop até que o usuário finalize.
 
 ---
-O script foi desenvolvido no dia 01/07/2023 na cadeira de Lógica de Programação ministrada pelo Prof. Maurício Santos.
+O script foi desenvolvido no dia 01/07/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Maurício Santos.

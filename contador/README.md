@@ -8,4 +8,4 @@ Os valores de entrada esperados são: o montante inicial e o tempo (em meses) qu
 Usa estrutura de repetição no código para manter o programa em loop até que o usuário finalize.
 
 ---
-O script foi desenvolvido no dia 23/08/2016 na cadeira de Lógica de Programação ministrada pelo Prof. Maurício Santos.
+O script foi desenvolvido em 2015.
