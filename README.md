@@ -29,3 +29,4 @@ com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
 - [Contador v2](./contador-v2) - Sistema para realizar o calculo de juros composto versão 2.
 - [Contador v3](./contador-v3) - Sistema para realizar o calculo de juros composto versão 3.
 - [Calculo kw](./calculo-kilowatts) - Sistema para realizar o calculo kilowatts.
+- [Calculadora](./calculadora) - Sistema funciona como calculadora de operações básicas.
