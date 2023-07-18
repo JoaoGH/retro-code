@@ -1,4 +1,4 @@
-# Contador v3
+# Calculo KW
 Esse algoritmo realiza o calculo de quanto será pago na conta de luz de um determinado cliente.
 
 Os valores de entrada esperados são: o nome do cliente, a quantidade gasta de kilowatts e tipo de cliente (Residencial,
