@@ -22,6 +22,7 @@ com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2019.
 - [Plano de Saude](./plano-de-saude) - Calcula valor de um plano de saúde.
 - [Entrevista](./entrevista) - Entrevista de de pessoas empregadas/desempregadas.
 - [Lista de Exercícios](./lista-exercicios) - Lista de exercícios em C++.
+- [Lista de Exercícios 2](./lista-exercicios-2) - Lista de exercícios em C++.
 - [Comanda eletrônica](./comanda-eletronica) - Funciona como uma comanda eletrônica.
 - [Conta Bancaria](./conta-bancaria) - Funciona como um acesso a conta bancaria.
 - [Americanas](./americanas) - Sistema de vendas e controle de caixa.
