@@ -1,6 +1,6 @@
 # Exercícios – Usar Estruturas de Repetição while ou do-while
 
-Lista de exercícios desenvolvido no dia 15/06/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio
+Lista de exercícios desenvolvido no dia 03/06/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio
 Santos.
 
 1. Elaborar um algoritmo que lê o nome e três notas (n1, n2 e n3) de um determinado aluno, Mostre o nome e a média final
