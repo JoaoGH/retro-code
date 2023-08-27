@@ -16,3 +16,6 @@ Santos.
 * O número de vitórias do Inter.
 * O número de vitórias do Grêmio.
 * O número de Empates.
+
+---
+Os scripts foram desenvolvidos no dia 02/07/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.

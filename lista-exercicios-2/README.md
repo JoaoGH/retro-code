@@ -15,3 +15,6 @@ Santos.
 
 6.	Escreva um algoritmo e um programa em c++  que leia 10 valores e ao final escreva quantos eram negativos. Utilize estrutura de repetição: for
 
+
+---
+Os scripts foram desenvolvidos no dia 17/06/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
