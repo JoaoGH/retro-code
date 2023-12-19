@@ -7,6 +7,16 @@ Decidi guarda-los aqui para manter uma lembrança dos meus primeiros códigos de
 O curso realizado no ensino médio foi o de Ensino Médio Técnico Integrado em Informática no IFSul - Campus Sapiranga/RS,
 com duração de 4 anos, sendo o primeiro em 2015 e terminando em 2018.
 
+## Algoritmos Destacados
+
+Nesta seção, destaco alguns algoritmos aos quais tenho um carinho especial:
+
+### [Primeiro Algoritmo](./2015/cpp/primeiro-algoritmo)
+
+- Descrição: Primeiro algoritmo desenvolvido em c++ no dia 13/05/2015.
+- Notas: Tal algortimo recebe destaque por ter cido o primeiro que desenvolvi diretamente no console, abrindo meu 
+caminho no mundo da programação.
+
 ## Estrutura de Pastas
 
 - **2015**
