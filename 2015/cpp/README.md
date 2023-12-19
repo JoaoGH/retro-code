@@ -2,51 +2,51 @@
 
 Aqui ficam listados os códigos desenvolvidos no ano de 2015 na linguagem de C++.
 
-- [Primeiro Algoritmo](./primeiro-algoritmo)
+- [Primeiro Algoritmo](./2015-05-13_primeiro-algoritmo)
   - Descrição: Primeiro algoritmo desenvolvido.
-- [Ordem Crescente](./ordem-crescente)
+- [Ordem Crescente](./2015-05-13_ordem-crescente)
   - Descrição: Ordenação de valores inteiros.
-- [Professor](./professor)
+- [Professor](./2015-05-13_professor)
   - Descrição: Calcula o salário com abono de um professor.
-- [Desconto INSS](./desconto-inss)
+- [Desconto INSS](./2015-05-13_desconto-inss)
   - Descrição: Calcula o salário com o desconto do INSS.
-- [Mais Crédito](./mais-credito)
+- [Mais Crédito](./2015-05-13_mais-credito)
   - Descrição: Calcula abono de crédito para um cliente.
-- [Custo Combustível](./custo-combustivel)
+- [Custo Combustível](./2015-05-13_custo-combustivel)
   - Descrição: Calcula o quantos litros de combustível serão consumidos.
-- [Vantagem](./vantagem)
+- [Vantagem](./2015-05-20_vantagem)
   - Descrição: Calcula qual o combustível mais vantajoso para abastecer.
-- [Converter Graus](./graus)
+- [Converter Graus](./2015-05-20_graus)
   - Descrição: Realiza a conversão de Fahrenheit para Celsius.
-- [Loop infinito](./teste)
+- [Loop infinito](./2015-05-20_teste)
   - Descrição: Fica em loop infinito.
-- [Plano de Saude](./plano-de-saude)
+- [Plano de Saude](./2015-05-27_plano-de-saude)
   - Descrição: Calcula valor de um plano de saúde.
-- [Entrevista](./entrevista)
+- [Entrevista](./2015-05-27_entrevista)
   - Descrição: Entrevista de de pessoas empregadas/desempregadas.
-- [Lista de Exercícios](./lista-exercicios)
+- [Lista de Exercícios](./2015-06-03_lista-exercicios)
   - Descrição: Lista de exercícios em C++.
-- [Lista de Exercícios 2](./lista-exercicios-2)
+- [Lista de Exercícios 2](./2015-06-17_lista-exercicios-2)
   - Descrição: Lista de exercícios em C++.
-- [Comanda eletrônica](./comanda-eletronica)
+- [Comanda eletrônica](./2015-06-24_comanda-eletronica)
   - Descrição: Funciona como uma comanda eletrônica.
-- [Conta Bancaria](./conta-bancaria)
+- [Conta Bancaria](./2015-06-24_conta-bancaria)
   - Descrição: Funciona como um acesso a conta bancaria.
-- [Americanas](./americanas)
+- [Americanas](./2015-07-01_americanas)
   - Descrição: Sistema de vendas e controle de caixa.
-- [Lista de Exercícios 3](./lista-exercicios-3)
+- [Lista de Exercícios 3](./2015-07-02_lista-exercicios-3)
   - Descrição: Lista de exercícios em C++.
-- [Prova](./prova)
+- [Prova](./2015-07-08_prova)
   - Descrição: Questões de prova.
-- [Contador](./contador)
+- [Contador](./2015-XX-XX_contador)
   - Descrição: Sistema para realizar o calculo de juros composto em uma poupança.
-- [Urna Eletrônica](./urna-eletronica)
+- [Urna Eletrônica](./2015-XX-XX_urna-eletronica)
   - Descrição: Sistema de urna eletrônica protegido com senha.
-- [Contador v2](./contador-v2)
+- [Contador v2](./2015-XX-XX_contador-v2)
   - Descrição: Sistema para realizar o calculo de juros composto versão 2.
-- [Contador v3](./contador-v3)
+- [Contador v3](./2015-XX-XX_contador-v3)
   - Descrição: Sistema para realizar o calculo de juros composto versão 3.
-- [Calculo kw](./calculo-kilowatts)
+- [Calculo kw](./2015-08-24_calculo-kilowatts)
   - Descrição: Sistema para realizar o calculo kilowatts.
-- [Calculadora](./calculadora)
+- [Calculadora](./2015-08-24_calculadora)
   - Descrição: Sistema funciona como calculadora de operações básicas.

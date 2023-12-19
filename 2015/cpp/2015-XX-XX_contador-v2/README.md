@@ -1,5 +1,5 @@
 # Contador v2
-Esse algoritmo é semelhante ao [Contador](../contador), porém com mais funcionalidades, como juros de conta corrente e 
+Esse algoritmo é semelhante ao [Contador](../2015-XX-XX_contador), porém com mais funcionalidades, como juros de conta corrente e 
 cheque especial.
 
 Os valores de entrada esperados são: o montante inicial e o tempo (em meses) que o dinheiro ficou aplicado.
