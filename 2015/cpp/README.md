@@ -50,3 +50,21 @@ Aqui ficam listados os códigos desenvolvidos no ano de 2015 na linguagem de C++
   - Descrição: Sistema para realizar o calculo kilowatts.
 - [Calculadora](./2015-08-24_calculadora)
   - Descrição: Sistema funciona como calculadora de operações básicas.
+- [Teste Calculadora com Janela](./2015-08-24_teste)
+  - Descrição: Sistema funciona como calculadora de operações básicas, com uma interface de janela desenhada.
+- [Pizzaria](./2015-08-31_pizzaria)
+  - Descrição: Sistema de pizzaria.
+- [Untitled 1](./2015-09-02_untitled1)
+  - Descrição: Soma de variaveis do tipo Char.
+- [Folha de Pagamento](./2015-09-09_folha-pagamento)
+  - Descrição: Sistema para realizar o calculo de folha de pagamento.
+- [Folha de Pagamento Vendedor](./2015-09-09_folha-pagamento-vendedor)
+  - Descrição: Sistema para realizar o calculo de folha de pagamento de um vendedor.
+- [Comissão](./2015-09-16_comicao)
+  - Descrição: Realiza o calculo de comissão de um vendedor com base o no total vendido.
+- [Prova 2](./2015-09-16_prova-2)
+  - Descrição: Sistema realiza a conversão de Fahrenheit para Celsius.
+- [Prova 1](./2015-09-23_prova-1)
+  - Descrição: Sistema para realizar a venda de ingressos.
+- [Arrays](./2015-09-30-arrays)
+  - Descrição: Scripts para estudo de funcionamento de arrays.
