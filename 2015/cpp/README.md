@@ -50,3 +50,5 @@ Aqui ficam listados os códigos desenvolvidos no ano de 2015 na linguagem de C++
   - Descrição: Sistema para realizar o calculo kilowatts.
 - [Calculadora](./2015-08-24_calculadora)
   - Descrição: Sistema funciona como calculadora de operações básicas.
+- [Teste Calculadora com Janela](./2015-08-24_teste)
+  - Descrição: Sistema funciona como calculadora de operações básicas, com uma interface de janela desenhada.
