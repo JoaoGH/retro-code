@@ -10,6 +10,8 @@ Nesse meus estudos iniciaram com Português estruturado e logo em seguida com a 
 Foi inicialmente usado para aprender os conceitos de lógica de programação, como uma porta de entrada nesse mundo.
 Os desafios eram mais simples, para entender o funcionamento de um algoritimo.
 
+Os códigos fontes podem ser vistos [aqui](./php).
+
 ### C++
 Essa linguagem foi introduzida como primeira linguagem de programação, foi usado somente códigos procendurais.
 
