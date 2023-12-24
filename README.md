@@ -17,6 +17,11 @@ Nesta seção, destaco alguns algoritmos aos quais tenho um carinho especial:
 - Notas: Tal algortimo recebe destaque por ter cido o primeiro que desenvolvi diretamente no console, abrindo meu 
 caminho no mundo da programação.
 
+### [Primeiro Algoritmo_PHP](./2015/php/2015-12-15_treina-web)
+
+- Descrição: Primeiro algoritmo desenvolvido em PHP no dia 15/12/2015.
+- Notas: Tal algortimo recebe destaque por ter cido o primeiro que desenvolvi em PHP.
+
 ## Estrutura de Pastas
 
 - **2015**
