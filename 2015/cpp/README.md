@@ -1,0 +1,70 @@
+# C++
+
+Aqui ficam listados os códigos desenvolvidos no ano de 2015 na linguagem de C++.
+
+- [Primeiro Algoritmo](./2015-05-13_primeiro-algoritmo)
+  - Descrição: Primeiro algoritmo desenvolvido.
+- [Ordem Crescente](./2015-05-13_ordem-crescente)
+  - Descrição: Ordenação de valores inteiros.
+- [Professor](./2015-05-13_professor)
+  - Descrição: Calcula o salário com abono de um professor.
+- [Desconto INSS](./2015-05-13_desconto-inss)
+  - Descrição: Calcula o salário com o desconto do INSS.
+- [Mais Crédito](./2015-05-13_mais-credito)
+  - Descrição: Calcula abono de crédito para um cliente.
+- [Custo Combustível](./2015-05-13_custo-combustivel)
+  - Descrição: Calcula o quantos litros de combustível serão consumidos.
+- [Vantagem](./2015-05-20_vantagem)
+  - Descrição: Calcula qual o combustível mais vantajoso para abastecer.
+- [Converter Graus](./2015-05-20_graus)
+  - Descrição: Realiza a conversão de Fahrenheit para Celsius.
+- [Loop infinito](./2015-05-20_teste)
+  - Descrição: Fica em loop infinito.
+- [Plano de Saude](./2015-05-27_plano-de-saude)
+  - Descrição: Calcula valor de um plano de saúde.
+- [Entrevista](./2015-05-27_entrevista)
+  - Descrição: Entrevista de de pessoas empregadas/desempregadas.
+- [Lista de Exercícios](./2015-06-03_lista-exercicios)
+  - Descrição: Lista de exercícios em C++.
+- [Lista de Exercícios 2](./2015-06-17_lista-exercicios-2)
+  - Descrição: Lista de exercícios em C++.
+- [Comanda eletrônica](./2015-06-24_comanda-eletronica)
+  - Descrição: Funciona como uma comanda eletrônica.
+- [Conta Bancaria](./2015-06-24_conta-bancaria)
+  - Descrição: Funciona como um acesso a conta bancaria.
+- [Americanas](./2015-07-01_americanas)
+  - Descrição: Sistema de vendas e controle de caixa.
+- [Lista de Exercícios 3](./2015-07-02_lista-exercicios-3)
+  - Descrição: Lista de exercícios em C++.
+- [Prova](./2015-07-08_prova)
+  - Descrição: Questões de prova.
+- [Contador](./2015-XX-XX_contador)
+  - Descrição: Sistema para realizar o calculo de juros composto em uma poupança.
+- [Urna Eletrônica](./2015-XX-XX_urna-eletronica)
+  - Descrição: Sistema de urna eletrônica protegido com senha.
+- [Contador v2](./2015-XX-XX_contador-v2)
+  - Descrição: Sistema para realizar o calculo de juros composto versão 2.
+- [Contador v3](./2015-XX-XX_contador-v3)
+  - Descrição: Sistema para realizar o calculo de juros composto versão 3.
+- [Calculo kw](./2015-08-24_calculo-kilowatts)
+  - Descrição: Sistema para realizar o calculo kilowatts.
+- [Calculadora](./2015-08-24_calculadora)
+  - Descrição: Sistema funciona como calculadora de operações básicas.
+- [Teste Calculadora com Janela](./2015-08-24_teste)
+  - Descrição: Sistema funciona como calculadora de operações básicas, com uma interface de janela desenhada.
+- [Pizzaria](./2015-08-31_pizzaria)
+  - Descrição: Sistema de pizzaria.
+- [Untitled 1](./2015-09-02_untitled1)
+  - Descrição: Soma de variaveis do tipo Char.
+- [Folha de Pagamento](./2015-09-09_folha-pagamento)
+  - Descrição: Sistema para realizar o calculo de folha de pagamento.
+- [Folha de Pagamento Vendedor](./2015-09-09_folha-pagamento-vendedor)
+  - Descrição: Sistema para realizar o calculo de folha de pagamento de um vendedor.
+- [Comissão](./2015-09-16_comicao)
+  - Descrição: Realiza o calculo de comissão de um vendedor com base o no total vendido.
+- [Prova 2](./2015-09-16_prova-2)
+  - Descrição: Sistema realiza a conversão de Fahrenheit para Celsius.
+- [Prova 1](./2015-09-23_prova-1)
+  - Descrição: Sistema para realizar a venda de ingressos.
+- [Arrays](./2015-09-30-arrays)
+  - Descrição: Scripts para estudo de funcionamento de arrays.
