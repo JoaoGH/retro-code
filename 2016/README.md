@@ -26,6 +26,8 @@ Mas como todas essas linguagens funcionam entrelassadas, não será possivel seg
   - Descrição: Prova de programação em PHP.
 - [Lista de Exercícios PHP](./2016-05-09_lista-exercicios)
   - Descrição: Lista de exercícios em PHP.
+- [Lista de Exercícios JavaScript](./2016-08-02_lista-exercicios)
+  - Descrição: Lista de exercícios em JavaScript.
 - [Ajax](./2016-10-26_ajax)
   - Descrição: Primeiro contato com a funcionalidade de AJAX.
 - [DOM - Lista Exercícios 1](./2016-10-26_ajax)
