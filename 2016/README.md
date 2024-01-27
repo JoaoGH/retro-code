@@ -42,5 +42,3 @@ Mas como todas essas linguagens funcionam entrelassadas, não será possivel seg
   - Descrição: Prova de programção de Javascript.
 - [Ajax](./2016-10-26_ajax)
   - Descrição: Primeiro contato com a funcionalidade de AJAX.
-- [DOM - Lista Exercícios 1](./2016-10-26_ajax)
-  - Descrição: Lista de Exercícios sobre DOM HTML.
