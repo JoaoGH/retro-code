@@ -19,7 +19,7 @@ Mas como todas essas linguagens funcionam entrelassadas, não será possivel seg
 - [Primeiro Site](./2016-03-15_site)
   - Descrição: Primeiro site desenvolvido.
 - [Empresa 1 Tecnologia](./2016-04-06_empresa1-tecnologia)
-  - Descrição: Esqueleto de um site básico sobre uma empresa de tecnologia. 
+  - Descrição: Site básico sobre uma empresa de tecnologia.
 - [Lista de Exercícios PHP](./2016-05-09_lista-exercicios)
   - Descrição: Lista de exercícios em PHP.
 - [Ajax](./2016-10-26_ajax)
