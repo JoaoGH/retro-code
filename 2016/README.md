@@ -36,6 +36,8 @@ Mas como todas essas linguagens funcionam entrelassadas, não será possivel seg
   - Descrição: Lista de exercícios em JavaScript usando DOM 2.
 - [Jogo do 15](./2016-09-04_jogo-15)
   - Descrição: Trabalho de desenvolvimento do Jogo do 15.
+- [Tarefa de Casa](./2016-09-19_tema-de-casa)
+  - Descrição: Lista do exercicíos para serem desenvolvimentos em casa.
 - [Ajax](./2016-10-26_ajax)
   - Descrição: Primeiro contato com a funcionalidade de AJAX.
 - [DOM - Lista Exercícios 1](./2016-10-26_ajax)
