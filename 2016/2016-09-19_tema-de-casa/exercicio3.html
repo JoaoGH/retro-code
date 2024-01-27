@@ -1,0 +1,107 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Tema de casa - exercicio3</title>
+        <script src="exercicio3.js"></script>
+        <style>
+            #teclado{
+                display: inline-block;
+                border: black solid 1px;
+                height: 200px;
+                width: 506px;
+            }
+            .tecla{
+                text-align: center;
+                background-color: gray;
+                width: 25px;
+                height: 25px;
+                margin: 13px 5px 1px 5px;
+                border: black solid 1px;
+                display: inline-block;
+                font-weight: bold;
+            }
+            .espaco{
+                background-color: gray;
+                width: 150px;
+                height: 30px;
+                margin: 4px 25% 1px 34%;
+                border: black solid 1px;
+                display: inline-block;
+            }
+            textarea{
+                display: inline-block;
+                margin-left: 25px;
+                margin-top: 0px;
+                width: 300px;
+                height: 160px;
+                max-width: 300px;
+                max-height: 160px;
+                overflow: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="conteudo">
+            <div id="teclado">
+                <input type="button" class="tecla" value="'" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="1" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="2" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="3" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="4" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="5" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="6" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="7" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="8" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="9" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="0" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="-" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="=" onclick="mostrar(this.value);" >
+
+                <input type="button" class="tecla" value="Q" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="W" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="E" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="R" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="T" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="Y" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="U" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="I" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="O" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="P" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="[" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="{" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="ª" onclick="mostrar(this.value);" >
+                
+                <input type="button" class="tecla" value="A" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="S" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="D" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="F" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="G" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="H" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="J" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="K" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="L" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="Ç" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="]" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="}" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="º" onclick="mostrar(this.value);" >
+
+                <input type="button" class="tecla" value="\" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="Z" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="X" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="C" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="V" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="B" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="N" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="M" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="." onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="," onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value=";" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value=":" onclick="mostrar(this.value);" >
+                <input type="button" class="tecla" value="?" onclick="mostrar(this.value);" >
+                <br>
+                <input type="button" class="espaco" value=" " onclick="mostrar(this.value);" >
+            </div>
+            <textarea id="saida" ReadOnly></textarea><!--placeholder="Texto doidão aqui" cols="30" rows="5"-->
+        </div>
+    </body>
+</html>
