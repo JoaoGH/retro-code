@@ -1,6 +1,6 @@
 # Lista de exercicíos em PHP
 
-Lista de exercícios desenvolvido no dia 09/05/2016 e 10/05/2016 na cadeira de Programação.
+Lista de exercícios desenvolvido no dia 09/05/2016 e 10/05/2016 na cadeira de Linguagem de Programação I.
 
 ## Enunciados
 
@@ -30,4 +30,4 @@ FÓRMULAS:
 
 ---
 
-O códigos foram desenvolvidos no dia 09/03/2016 na cadeira de Programação, enquanto ministrada pelo Prof. Mauricio Santos.
+O códigos foram desenvolvidos no dia 09/03/2016 na cadeira de Linguagem de Programação I, enquanto ministrada pelo Prof. Mauricio Santos.
