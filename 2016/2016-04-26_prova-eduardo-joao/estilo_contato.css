@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+h1
+{
+    font-family:"Arial Black";
+    font-size:18px;
+    color:#000;
+    text-align:center;
+}
+h2
+{
+    font-family:Tahoma;
+    font-size:14px;
+    color:#000;
+    text-align:center;
+}
+h3
+{
+    font-family:Helvetica;
+    font-size:14px;
+    color:#000;
+    font-style:italic;
+    text-align:center;
+}
+p
+{
+    font-family:Arial;
+    font-size:14px;
+    margin-top:0px;
+    margin-bottom:10px;
+    text-align:justify; 
+    text-indent:40px; /*recuo da primeira linha de cada parágrafo*/
+}
+#container
+{
+    position:relative; /*centralizar o layout */
+    margin-top:0px;    /*centralizar o layout */
+    margin-right:auto; /*centralizar o layout */
+    margin-bottom:0px; /*centralizar o layout */
+    margin-left: auto; /*centralizar o layout */
+    width:900px;   /*comprimento da div*/
+    height:auto;  /*altura da div*/
+}
+#topo
+{
+    width:900px;   /*comprimento da div*/
+    height:200px;  /*altura da div*/
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: solid 1px #000;
+}
+#menu
+{
+    width:902px;   /*comprimento da div*/
+    height:40px;  /*altura da div*/
+    background-color: #6666ff; /*cor de fundo da div menu*/
+    word-spacing:80px; /*espeço entre as palavras do menu*/
+    padding-top:20px;
+}
+#link1
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 255px;
+    float: left;
+}
+#link2
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 70px;
+    float: left;
+}
+#link3
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 90px;
+    float: left;
+}
+#link4
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 70px;
+    float: left;
+}
+a
+{
+    font-family:Tahoma;     /*tipo de fonte*/
+    font-size: 18px;        /*tamanho da fonte*/
+    color:#000;             /*cor da font*/
+    text-decoration: none;  /*retirar sublinhados dos links*/
+    font-weight: bold;      /*fonte em negrito*/
+}
+a:hover
+{
+    font-family: Tahoma;
+    font-size: 20px;
+    color: #ff6633
+}
+
+#conteudo
+{
+    width:900px;
+    min-height:350px;
+    overflow:hidden; /*se o conteudo colocado nesta div é maior do que min-height será criada barra de rolagem automaticamente*/
+    background-color: #ffffcc;
+}
+.formulario
+{
+    width:325px;
+    min-height:400px;
+    margin-top:20px;
+    margin-right:10px;
+    margin-bottom:10px;
+    margin-left:75px;
+    float:left;
+
+/*border:1px solid #000;*/
+}
+.mapa
+{
+    width:325px;
+    min-height:400px;
+    margin-top:20px;
+    margin-right:10px;
+    margin-bottom:10px;
+    margin-left:85px;
+    float:left;
+/*border:1px solid #000;*/
+}
+
+#rodape
+{
+    width:878px;
+    height:45px;
+    padding:10px;
+    border-top: solid 3px #000;
+}
+label
+{
+    display: block; /*deixar um label acima do outro*/
+    margin: 5px 0px 5px 0px;
+    float: left;
+}
+label span
+{
+    width:80px;
+}
+input, textarea, select
+{
+    color: #6666ff;
+    width: 250px;
+    border: solid 1px #6666ff;
+    
+}
+textArea
+{
+    width: 250px;
+    height: 150px;
+    max-width:250px;
+    max-height: 120px; 
+    overflow: auto;
+}

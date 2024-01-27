@@ -1,0 +1,142 @@
+@charset "utf-8";
+#container
+{
+    position:relative; /*centralizar o layout */
+    margin-top:0px;    /*centralizar o layout */
+    margin-right:auto; /*centralizar o layout */
+    margin-bottom:0px; /*centralizar o layout */
+    margin-left: auto; /*centralizar o layout */
+    width:900px;   /*comprimento da div*/
+    height:auto;  /*altura da div*/
+}
+
+#topo
+{
+    width:900px;   /*comprimento da div*/
+    height:200px;  /*altura da div*/
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border:solid 1px #000;
+}
+
+#menu
+{
+    width:902px;   /*comprimento da div*/
+    height:40px;  /*altura da div*/
+    background-color: #6666ff; /*cor de fundo da div menu*/
+    word-spacing:60px; /*espeço entre as palavras do menu*/
+    padding-top:20px;
+}
+#link1
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 255px;
+    float: left;
+}
+#link2
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 70px;
+    float: left;
+}
+#link3
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 90px;
+    float: left;
+}
+#link4
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 70px;
+    float: left;
+}
+
+a
+{
+    font-family:Tahoma;     /*tipo de fonte*/
+    font-size: 18px;        /*tamanho da fonte*/
+    color:#000;             /*cor da font*/
+    text-decoration: none;  /*retirar sublinhados dos links*/
+    font-weight: bold;      /*fonte em negrito*/
+}
+a:hover
+{
+    font-family: Tahoma;
+    font-size: 20px;
+    color: #ff6633
+}
+
+
+#conteudo
+{
+    width:902px;   /*comprimento da div*/
+    min-height:300px;  /*altura minima da div conteudo*/
+    /*border:1px solid #000;*/
+    overflow:hidden; /*caso necessário expande a div na vertical*/
+    background-color: #ffffcc
+}
+.texto
+{
+    width: auto;
+    text-align: center;
+    min-height: 250px;
+    margin: 5px 5px 5px 5px; /* pode colocar 5px quatro vezes ou apenas 1*/
+    /*border: 1px solid #000;*/
+}
+p
+{
+    font-family: Arial;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;            /*justificado*/
+    text-indent: 20px;              /*recuo da 1 linha do paragrafo*/
+}
+.imagem
+{
+    margin-left: 10px;
+}
+#rodape
+{
+    width:880px;   /*comprimento da div*/
+    height:45px;  /*altura da div*/ 
+    background-color:#FFF; /*cor de fundo amarelo*/
+    padding:10px 10px 10px 10px;
+    border-top: solid 3px #000;
+}
+h3
+{
+    font-family: Helvetica;
+    font-size: 14px;
+    text-align: center;
+    color: #000;
+    font-style: italic;
+    font-stretch: semi-expanded;
+}
+#galeria
+{
+    background-color: #FFF;
+    padding: 60px;
+    width: 520px;
+    margin-left: 155px;
+}
+#galeria ul {list-style: none;}
+
+#galeria ul li {display: inline;}
+#galeria ul li {text-align: center}
+#galeria ul img {
+    border: 1px solid #000;
+    color: #FFF;
+}
+.imagem_alingn
+{
+    margin-left: 10px;
+    margin-right: 4px;
+    
+}
