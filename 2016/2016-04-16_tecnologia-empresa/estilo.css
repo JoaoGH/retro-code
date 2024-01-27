@@ -1,0 +1,39 @@
+@charset "utf-8";
+#container{
+    position: relative; /*centralizar o layout*/
+    margin-top: 0px; /* centralizar o layout tmb*/
+    margin-right: auto; /*centralizar o layout em qualquer tela*/
+    margin-bottom: 0px; /* centralizar o layout tmb*/
+    margin-left: auto;/*centralizar o layout em qualquer tela tmb*/
+    width: 900px; /*comprimento da div*/
+    height: 629px; /*altura da div*/
+    border: 1px solid black; /*borda da div container*/
+    background-color: red; /*cor do fundo da div container*/
+}
+#topo{
+    width: 900px;
+    height: 200px;
+    border: 1px solid black;
+    background-image: url(logo.jpg);   
+}
+#menu{
+    width: 900px;
+    height: 40px;
+    background-color: blueviolet;
+    word-spacing: 40px;/*espaço entre as palavras*/
+    padding-top: 20px;
+}
+#conteudo{
+    width: 898px;
+    min-height: 300px;/*altura minima da div conteudo*/
+    border: 1px solid black;
+    overflow: hidden; /*caso necessário expande a div na vertical*/
+    background-color: lawngreen;   
+}
+#rodape{
+ width: 880px;
+ height: 45px;
+background-color: yellow;
+padding: 10px;
+    
+}
