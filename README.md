@@ -14,13 +14,13 @@ Nesta seção, destaco alguns algoritmos aos quais tenho um carinho especial:
 ### [Primeiro Algoritmo](./2015/cpp/2015-05-13_primeiro-algoritmo)
 
 - Descrição: Primeiro algoritmo desenvolvido em c++ no dia 13/05/2015.
-- Notas: Tal algortimo recebe destaque por ter cido o primeiro que desenvolvi diretamente no console, abrindo meu 
+- Notas: Tal algortimo recebe destaque por ter sido o primeiro que desenvolvi diretamente no console, abrindo meu 
 caminho no mundo da programação.
 
 ### [Primeiro Algoritmo_PHP](./2015/php/2015-12-15_treina-web)
 
 - Descrição: Primeiro algoritmo desenvolvido em PHP no dia 15/12/2015.
-- Notas: Tal algortimo recebe destaque por ter cido o primeiro que desenvolvi em PHP.
+- Notas: Tal algortimo recebe destaque por ter sido o primeiro que desenvolvi em PHP.
 
 ## Estrutura de Pastas
 
