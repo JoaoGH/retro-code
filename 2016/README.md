@@ -17,7 +17,7 @@ Os códigos fontes podem ser vistos [aqui](./programming).
 
 ### Banco de Dados
 
-Mas como todas essas linguagens funcionam entrelassadas, não será possivel segmenta-las em diretórios distintos.
+Os scripts criados podem ser vistos [aqui](./database/).
 
 ## Notas
 
