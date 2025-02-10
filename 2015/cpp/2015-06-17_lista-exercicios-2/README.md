@@ -17,4 +17,4 @@ Santos.
 
 
 ---
-Os scripts foram desenvolvidos no dia 17/06/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
+Os scripts foram desenvolvidos no dia 17/06/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio dos Santos.

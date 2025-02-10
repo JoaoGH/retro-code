@@ -93,4 +93,4 @@ insert into livros(titulo,autor,paginas,preco,categoria,subcategoria) values ("B
 
 ---
 
-O códigos foram desenvolvidos no dia 23/06/2016 na cadeira de Banco de Dados, enquanto ministrada pelo Prof. Mauricio Santos.
+O códigos foram desenvolvidos no dia 23/06/2016 na cadeira de Banco de Dados, enquanto ministrada pelo Prof. Mauricio dos Santos.

@@ -13,4 +13,4 @@ acordo com o total vendido.
 Usa de funções para evitar repetição de código, e adiciona uma interface com linhas para tornar o programa mais amigável.
 
 ---
-O script foi desenvolvido em 16/09/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
+O script foi desenvolvido em 16/09/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio dos Santos.

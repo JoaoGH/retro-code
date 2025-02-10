@@ -7,4 +7,4 @@ Os valores de entrada esperados são: o tipo de operação desejada, valor um e 
 Usa funções para evitar repetição de código, facilitando assim eventuais manutenções.
 
 ---
-O script foi desenvolvido em 24/08/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
+O script foi desenvolvido em 24/08/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio dos Santos.

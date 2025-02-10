@@ -30,4 +30,4 @@ FÓRMULAS:
 
 ---
 
-O códigos foram desenvolvidos no dia 09/03/2016 na cadeira de Linguagem de Programação I, enquanto ministrada pelo Prof. Mauricio Santos.
+O códigos foram desenvolvidos no dia 09/03/2016 na cadeira de Linguagem de Programação I, enquanto ministrada pelo Prof. Mauricio dos Santos.

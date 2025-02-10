@@ -7,4 +7,4 @@ Comercial e Industrial).
 Usa funções para evitar repetição de código, facilitando assim eventuais manutenções.
 
 ---
-O script foi desenvolvido em 24/08/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
+O script foi desenvolvido em 24/08/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio dos Santos.

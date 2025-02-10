@@ -20,7 +20,7 @@ Os códigos fontes podem ser vistos [aqui](./cpp).
 ### PHP
 Estudos básicos sobre o funcionamento do PHP, com base no aprendido em uma curso da plataforma TreinaWeb.
 
-Esse curso foi disponibilizado pelo professor Mauricio Santos.
+Esse curso foi disponibilizado pelo professor Mauricio dos Santos.
 
 Os códigos fontes podem ser vistos [aqui](./php).
 

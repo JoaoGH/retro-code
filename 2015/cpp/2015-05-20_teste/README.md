@@ -6,4 +6,4 @@ alguma exception do sistema.
 Algoritmo foi idealizado como um teste de performance do computador na época de seu desenvolvimento.
 
 ---
-O script foi desenvolvido no dia 20/05/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
+O script foi desenvolvido no dia 20/05/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio dos Santos.

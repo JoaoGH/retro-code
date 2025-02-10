@@ -7,4 +7,4 @@ A prova foi realizada em dupla na linguagem PHP, usando marcaçãoi HTML e CSS.
 ---
 
 O códigos foram desenvolvidos em 26/04/2016 na cadeira de Linguagem de Programação I,
-enquanto ministrada pelo Prof. Mauricio Santos.
+enquanto ministrada pelo Prof. Mauricio dos Santos.
