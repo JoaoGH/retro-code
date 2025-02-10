@@ -25,4 +25,4 @@ Usa estrutura de repetição no código para manter o programa em loop até que 
 switch case para segmentar a lógica de reajuste. 
 
 ---
-Os scripts foram desenvolvidos na prova de Lógica de Programação no dia 08/07/2015, ministrada pelo Prof. Mauricio Santos.
+Os scripts foram desenvolvidos na prova de Lógica de Programação no dia 08/07/2015, ministrada pelo Prof. Mauricio dos Santos.

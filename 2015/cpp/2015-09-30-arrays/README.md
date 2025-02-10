@@ -17,4 +17,4 @@ O algoritmo lista quais os alunos de recuperação, média menor que 6, também 
 Algoritmo le 10 números inteiros e informa os ímpares.
 
 ---
-O script foi desenvolvido em 30/09/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio Santos.
+O script foi desenvolvido em 30/09/2015 na cadeira de Lógica de Programação ministrada pelo Prof. Mauricio dos Santos.
