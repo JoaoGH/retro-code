@@ -1,6 +1,6 @@
 # Trabalho 
 
-Lista de exercícios para serem entregues. Foi desenvolvida no dia 17/03/2016 na cadeira de Banco de dados.
+Lista de exercícios para serem entregues. Foi desenvolvida no dia 17/03/2016 na cadeira de Banco de Dados.
 
 ## Enunciados
 
