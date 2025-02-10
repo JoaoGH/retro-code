@@ -1,4 +1,4 @@
-# Lista de exercicíos de Banco de Dados
+# Lista de exercícios de Banco de Dados
 
 Lista de exercícios desenvolvida no dia 23/06/2016 na cadeira de Banco de Dados.
 

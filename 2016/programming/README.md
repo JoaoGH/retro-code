@@ -23,7 +23,7 @@ Aqui ficam listados os códigos desenvolvidos no ano de 2016 nas linguagens HTML
 - [Jogo do 15](./2016-09-04_jogo-15)
   - Descrição: Trabalho de desenvolvimento do Jogo do 15.
 - [Tarefa de Casa](./2016-09-19_tema-de-casa)
-  - Descrição: Lista do exercicíos para serem desenvolvimentos em casa.
+  - Descrição: Lista do exercícios para serem desenvolvimentos em casa.
 - [Prova de Programação](./2016-09-27_prova-programacao)
   - Descrição: Prova de programção de Javascript.
 - [Ajax](./2016-10-26_ajax)

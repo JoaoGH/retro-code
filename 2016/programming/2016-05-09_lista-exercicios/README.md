@@ -1,4 +1,4 @@
-# Lista de exercicíos em PHP
+# Lista de exercícios em PHP
 
 Lista de exercícios desenvolvido no dia 09/05/2016 e 10/05/2016 na cadeira de Linguagem de Programação I.
 
