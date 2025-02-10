@@ -14,6 +14,8 @@ Foi usado MySQL para aprendetar a utilizar o banco de dados e [DBDesigner 4](htt
   - Descrição: Arquivos de modelagem de banco de dados.
 - [Select Avançado](./2016-06-17_consultas-sql-select-avancado)
   - Descrição: Arquivo sobre selects avançados.
+- [Apostila SQL](./2016-06-22_apostila)
+  - Descrição: Apostila sobre o funcionamento do SQL.
 - [Biblioteca](./2016-06-23_biblioteca/)
   - Descrição: Scripts para criação e população de um banco de dados de uma biblioteca.
 - [Prova](./2016-07-06-prova)
