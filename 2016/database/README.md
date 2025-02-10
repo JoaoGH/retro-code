@@ -8,6 +8,8 @@ Foi usado MySQL para aprendetar a utilizar o banco de dados e [DBDesigner 4](htt
   - Descrição: Trabalho de Banco de dados com exercícios de fixação.
 - [Design e Normalização](./2016-05-11_design-e-normalizacao/)
   - Descrição: Apostila e apresentação falando sobre design e normalização de banco de dados.
+- [Exercícios de Normalização](./2016-05-12_normalizacao)
+  - Descrição: Exercícios de normalizaçãoi de banco.
 - [Empresa](./2016-06-09_empresa)
   - Descrição: Arquivos de modelagem de banco de dados.
 - [Biblioteca](./2016-06-23_biblioteca/)
