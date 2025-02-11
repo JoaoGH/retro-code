@@ -1,0 +1,119 @@
+@charset "utf-8";
+#container
+{
+    position:relative; /*centralizar o layout */
+    margin-top:0px;    /*centralizar o layout */
+    margin-right:auto; /*centralizar o layout */
+    margin-bottom:0px; /*centralizar o layout */
+    margin-left: auto; /*centralizar o layout */
+    width:900px;   /*comprimento da div*/
+    height:auto;  /*altura da div*/
+    border:1px solid #000; /*borda da div container*/
+}
+
+#topo
+{
+    width:900px;   /*comprimento da div*/
+    height:200px;  /*altura da div*/
+    border:1px solid #000; /*borda da div topo*/
+    background-image:url(logo1.jpg);
+}
+
+#menu
+{
+    width:900px;   /*comprimento da div*/
+    height:40px;  /*altura da div*/
+    background-color: #FFF; /*cor de fundo da div menu*/
+    word-spacing:40px; /*espeço entre as palavras do menu*/
+    padding-top:20px;
+    border: 1px solid #000;
+}
+#link1
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 255px;
+    float: left;
+}
+#link2
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 70px;
+    float: left;
+}
+#link3
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 90px;
+    float: left;
+}
+#link4
+{
+    width: 30px;
+    height: 15px;
+    margin-left: 70px;
+    float: left;
+}
+
+a
+{
+    font-family:Tahoma;     /*tipo de fonte*/
+    font-size: 18px;        /*tamanho da fonte*/
+    color:#000;             /*cor da font*/
+    text-decoration: none;  /*retirar sublinhados dos links*/
+    font-weight: bold;      /*fonte em negrito*/
+}
+a:hover
+{
+    font-family: Tahoma;
+    font-size: 20px;
+    color: blue;
+}
+
+
+#conteudo
+{
+    width:898px;   /*comprimento da div*/
+    min-height:300px;  /*altura minima da div conteudo*/
+    /*border:1px solid #000;*/
+    overflow:hidden; /*caso necessário expande a div na vertical*/
+}
+.caixa
+{
+    width: 895px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    overflow: hidden;
+    border: 1px solid #0000ff;
+    min-height: 300px;
+}
+
+p
+{
+    font-family: Arial;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: justify;            /*justificado*/
+    text-indent: 20px;              /*recuo da 1 linha do paragrafo*/
+}
+#rodape
+{
+    width:880px;   /*comprimento da div*/
+    height:45px;  /*altura da div*/ 
+    background-color:#FFF; /*cor de fundo amarelo*/
+    padding:10px 10px 10px 10px;
+}
+h3
+{
+    font-family: Helvetica;
+    font-size: 14px;
+    text-align: center;
+    color: #000;
+    font-style: italic;
+    font-stretch: semi-expanded;
+}

@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+margin:0px;
+}
+h1
+{
+font-family:"Arial Black";
+font-size:18px;
+color:#000;
+text-align:center;
+}
+h2
+{
+font-family:Tahoma;
+font-size:14px;
+color:#000;
+text-align:center;
+}
+h3
+{
+font-family:Helvetica;
+font-size:14px;
+color:#FFF;
+font-style:italic;
+text-align:center;
+}
+p
+{
+font-family:Arial;
+font-size:14px;
+margin-top:0px;
+margin-bottom:10px;
+text-align:justify; 
+text-indent:40px; /*recuo da primeira linha de cada parágrafo*/
+}
+#container
+{
+position:relative;
+margin:0 auto 0 auto; /*centralizar a div na tela*/
+width:900px;
+height:750px;
+}
+#topo
+{
+width:900px;
+height:200px;
+background-image:url(banner1.jpg);
+}
+#menu
+{
+width:898px;
+height:40px;
+border:1px solid #000;
+background-color:#7c3174;
+word-spacing:40px;
+padding-top:20px;
+}
+#link1
+{
+width:30px;
+height:15px;
+margin-left:255px;
+float:left;
+}
+#link2
+{
+width:30px;
+height:15px;
+margin-left:70px;
+float:left;
+}
+#link3
+{
+width:30px;
+height:15px;
+margin-left:90px;
+float:left;
+}
+#link4
+{
+width:30px;
+height:15px;
+margin-left:70px;
+float:left;
+}
+a
+{
+font-family:Tahoma;
+font-size:18px;
+color:#FFF;
+text-decoration:none; /*retirar o sublinhado dos links*/
+font-weight:bold; /*fonte em negrito*/
+}
+a:hover
+{
+font-family:Tahoma;
+font-size:20px;
+color:#FF0;
+}
+#conteudo
+{
+width:898px;
+min-height:350px;
+border:1px solid #000;
+overflow:hidden; /*se o conteudo colocado nesta div é maior do que min-height será criada barra de rolagem automaticamente*/
+}
+.formulario
+{
+width:325px;
+min-height:400px;
+margin-top:20px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:75px;
+float:left;
+/*border:1px solid #000;*/
+}
+.mapa
+{
+width:325px;
+min-height:400px;
+margin-top:20px;
+margin-right:10px;
+margin-bottom:10px;
+margin-left:85px;
+float:left;
+/*border:1px solid #000;*/
+}
+
+#rodape
+{
+width:878px;
+height:45px;
+background-color:#7c3174;
+padding:10px;
+border:1px solid #000;
+}

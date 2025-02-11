@@ -1,0 +1,47 @@
+@charset "utf-8";
+#container
+{
+	position:relative;		/*controlar o layout*/
+	margin-top:0px; 		/*controlar o layout*/
+	margin-right:auto;		/*controlar o layout*/
+	margin-bottom:0px;		/*controlar o layout*/
+	margin-left:auto; 		/*controlar o layout*/
+	width:900px; 			/*comprimento da div*/
+	height:609px; 			/*altura da div*/
+	border:1px solid #000; 		/*borda da div container*/
+	background-color:#F00; 		/*cor de fundo da div container*/
+}
+
+#topo
+{
+	width:899px;			/*compriemnto da div topo*/
+	height:200px;			/*altura da div topo*/
+	border:1px solid #000;		/*borda da div topo*/
+	background-image:url(logo1.jpg)
+}
+
+#menu
+{
+	width:900px;			/*compriemnto da div menu*/
+	height:40px;			/*altura da div menu*/
+	background-color:#8d4d89;	/*cor de fundo da div menu*/
+	word-spacing:40px;		/*espaço entre as palavras do menu*/	
+	padding-top:20 px;
+}
+
+#conteudo
+{
+	width:899px;			/*compriemnto da div conteudo*/
+	min-height:300px;		/*altura minima da div conteudo*/
+	border:1px solid #000;		/*borda da div conteudo*/
+	overflow:hidden;		/*caso nescessario expande a div conteudo na vertical*/
+	background-color:#FFFF00;	/*cor de fundo da div conteudo*/
+}
+
+#rodape
+{
+	width:880px;			/*compriemnto da div rodape*/
+	height:45px;			/*altura da div rodape*/
+	background-color:#00FF00;	/*cor de fundo da div rodape*/
+	padding:10px 10px 10px 10px;
+}
