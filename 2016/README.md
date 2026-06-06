@@ -1,6 +1,6 @@
 # 2016
 
-Este diretório contém scripts desenvolvidos durante o ano de 2015, prosseguindo na evolução das habilidade em 
+Este diretório contém scripts desenvolvidos durante o ano de 2016, prosseguindo na evolução das habilidade em 
 programação e estilização de páginas web.
 
 ## Linguagens
