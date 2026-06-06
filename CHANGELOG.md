@@ -5,7 +5,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
 e este projeto segue [Semantic Versioning](https://semver.org/lang/pt-BR/).
 
-## [Não publicado]
+## [1.2.0] - 2026-06-05
 
 ### Corrigido
 - Remover pasta nbproject do projeto [2016-04-26_prova-eduardo-joao](./2016/programming/2016-04-26_prova-eduardo-joao/) presente em 2016.
@@ -32,6 +32,7 @@ e este projeto segue [Semantic Versioning](https://semver.org/lang/pt-BR/).
 - Adicionar códigos fontes desenvolvidos no ano de 2015.
 
 
-[Não publicado]: https://github.com/JoaoGH/retro-code/compare/v1.0.0..development
+[Não publicado]: https://github.com/JoaoGH/retro-code/compare/v1.2.0..development
+[1.2.0]: https://github.com/JoaoGH/retro-code/compare/v1.1.0..v1.2.0
 [1.1.0]: https://github.com/JoaoGH/retro-code/compare/v1.0.0..v1.1.0
 [1.0.0]: https://github.com/JoaoGH/retro-code/releases/tag/v1.0.0
