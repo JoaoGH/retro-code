@@ -5,6 +5,16 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/),
 e este projeto segue [Semantic Versioning](https://semver.org/lang/pt-BR/).
 
+## [Não publicado]
+
+### Corrigido
+- Remover pasta nbproject do projeto [2016-04-26_prova-eduardo-joao](./2016/programming/2016-04-26_prova-eduardo-joao/) presente em 2016.
+- Remover arquivo .gitkeep na pasta de [2016](./2016/).
+
+### Adicionado
+- Projetos de programação e interface gráfica desenvolvidos em Java no ano de 2017.
+- Scripts de manipulação matemática desenvolvidos em C++ no ano de 2017.
+- Estrutura de banco de dados relacional SQL desenvolvida no ano de 2017.
 
 ## [1.1.0] - 2025-02-11
 
