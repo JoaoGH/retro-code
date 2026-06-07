@@ -1,10 +1,28 @@
-# Preco
+# Sistema Preço Baixo
 
-Este projeto consiste em sistema com interface gráfica desenvolvido em PHP/HTML para a matéria de Projeto e Desenvolvimento de Interfaces, onde foi estudado as noções básicas do desenvolvimento de uma interface.
+Este projeto é uma aplicação web completa desenvolvida com PHP e MySQL, construída sobre a base do template *Freelancer* (Start Bootstrap).
+O sistema funciona como uma plataforma colaborativa de pesquisa de preços, onde os usuários alimentam a base de dados com valores de produtos encontrados em diferentes locais.
+
+O grande diferencial deste projeto é a implementação de uma lógica de gamificação/restrição: o usuário só recebe permissão para pesquisar preços no sistema após ter contribuído cadastrando pelo menos 5 produtos.
+
+## Funcionamento
+
+* **Modularização de Interface**: O código visual foi fatorado em componentes reutilizáveis (`head.php` e `fimBody.php`), centralizando a importação de bibliotecas (Bootstrap, FontAwesome, jQuery) e scripts, mantendo os arquivos principais mais limpos.
+* **Autenticação Real (`login.php` e `cadUser.php`)**: Diferente de testes anteriores com dados estáticos, este sistema realiza requisições SQL (`mysql_query`) para verificar credenciais e cadastrar novos usuários na tabela `usuarios`. O controle de acesso é mantido via sessões (`$_SESSION`).
+* **Área Restrita e Regra de Negócio (`perfil.php`)**: O painel principal do usuário exibe opções de cadastrar e pesquisar preços. O botão de pesquisa possui um bloqueio dinâmico (`disabled`) que incentiva a alimentação prévia do banco de dados.
+* **Cadastro de Preços (`cadPreco.php` e `cadPrecoBanco.php`)**: Interface onde o usuário informa o preço e o local do produto. O script utiliza a função `rand()` para sortear imagens ilustrativas e nomes de móveis/eletrodomésticos. No backend, o sistema insere o produto na tabela `produtos` e realiza um `UPDATE` no contador de contribuições do usuário.
+* **Persistência (`conectar.php`)**: Arquivo dedicado a estabelecer a ponte entre a aplicação PHP e o servidor MySQL local (banco de dados `precobaixo`), utilizando a API nativa do PHP e configurando o charset para UTF-8.
+
+## Tecnologias e Ferramentas
+
+* **Frontend**: HTML5, CSS3, Bootstrap v4.0.0, jQuery e modularização de layouts via PHP.
+* **Backend**: PHP 5.6 (com integração via API estruturada legada `mysql_*` e controle de Sessões).
+* **Banco de Dados**: MySQL (SGBD relacional).
+* **Automação/Build**: Assim como os demais projetos da série, utiliza o gerenciador de pacotes do ecossistema Node (`package.json`) com Gulp para minificação e sincronização de browser durante o desenvolvimento.
 
 ---
 
-O código foi desenvolvido no dia 24/04/2018, como parte dos estudos de Projeto e Desenvolvimento de Interfaces.
+O projeto foi desenvolvido no dia 05/06/2018 como atividade prática para a cadeira de **Projeto e Desenvolvimento de Interfaces**, ministrada pelo Prof. Juliano Moreira.
 
 ---
 
