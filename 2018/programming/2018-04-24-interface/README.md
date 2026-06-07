@@ -27,6 +27,7 @@ O ecossistema combina estilização responsiva moderna com controle rudimentar d
 
 O projeto foi desenvolvido no dia 24/04/2018 como atividade prática para a cadeira de **Projeto e Desenvolvimento de Interfaces**, ministrada pelo Prof. Juliano Moreira.
 
+---
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 

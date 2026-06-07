@@ -22,7 +22,7 @@ O grande diferencial deste projeto é a implementação de uma lógica de gamifi
 
 ---
 
-O projeto foi desenvolvido no dia 05/06/2018 como atividade prática para a cadeira de **Projeto e Desenvolvimento de Interfaces**, ministrada pelo Prof. Juliano Moreira.
+O projeto foi desenvolvido no dia 06/05/2018 como atividade prática para a cadeira de **Projeto e Desenvolvimento de Interfaces**, ministrada pelo Prof. Juliano Moreira.
 
 ---
 
