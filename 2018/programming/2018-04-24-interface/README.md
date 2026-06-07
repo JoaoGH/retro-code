@@ -1,12 +1,31 @@
-# Interface
+# Sistema de Autenticação e Interface Dinâmica
 
-Este projeto consiste em sistema com interface gráfica desenvolvido em HTML/CSS para a matéria de Projeto e Desenvolvimento de Interfaces, onde foi estudado as noções básicas do desenvolvimento de uma interface.
+Este projeto consiste em uma aplicação web experimental desenvolvida a partir da customização do tema clássico *Freelancer* (Start Bootstrap v4.0.0).
+O objetivo principal do projeto foi a criação de uma interface dinâmica com controle de visualização no lado do cliente e um fluxo simples de autenticação de usuários no backend.
+
+O ecossistema combina estilização responsiva moderna com controle rudimentar de sessões em PHP.
+
+## Funcionamento
+
+* **Interface Interativa (`index.php`)**: Página principal estruturada com Bootstrap 4 e jQuery. Utiliza funções em JavaScript puro (`inicio()` e `aparece()`) para manipular propriedades de exibição (`display: none/block`) de elementos HTML em tempo real, permitindo alternar entre as seções de Login e Cadastro sem a necessidade de recarregar a página.
+* **Fluxo de Cadastro (`cadUser.php`)**: Uma interface complementar que simula o envio de dados cadastrais, utilizando inputs ocultos contendo credenciais predefinidas para fins de teste técnico.
+* **Mecanismo de Validação (`test.php`)**: Script PHP responsável por processar as requisições `POST` dos formulários. Ele utiliza arrays estáticos em memória para emular um banco de dados de usuários:
+  - Usuário padrão: `adm`
+  - Senha padrão: `123`
+  - Caso as credenciais coincidam, inicia uma sessão ativa (`$_SESSION['login'] = 'ok'`) e redireciona o usuário para a área restrita.
+  - Se os dados forem inválidos, devolve o usuário para a tela inicial injetando um parâmetro de erro via query string (`?retorno=Dados inválidos`).
+* **Área Protegida (`perfil.php`)**: Página de destino após um login bem-sucedido, confirmando o sucesso da autenticação do usuário.
+* **Módulo de Contato (`contact_me.js` e `contact_me.php`)**: Integração herdada do template original que utiliza chamadas assíncronas via AJAX (`$.ajax`) para validar e disparar e-mails locais a partir do formulário de contato.
+
+## Tecnologias e Ferramentas
+
+* **Frontend**: HTML5, CSS3 (Sass), Bootstrap v4.0.0, Font Awesome v4.7.0 e jQuery v3.3.1.
+* **Backend**: PHP 5.6 (Lógica procedural e controle de sessões nativas).
+* **Automação/Build**: Ferramentas baseadas em Node.js mapeadas via `package.json`, utilizando Gulp para minificação de arquivos e BrowserSync para sincronização do servidor de desenvolvimento local.
 
 ---
 
-O código foi desenvolvido no dia 24/04/2018, como parte dos estudos de Projeto e Desenvolvimento de Interfaces.
-
----
+O projeto foi desenvolvido no dia 24/04/2018 como atividade prática para a cadeira de **Projeto e Desenvolvimento de Interfaces**, ministrada pelo Prof. Juliano Moreira.
 
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
