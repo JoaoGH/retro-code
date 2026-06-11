@@ -1,0 +1,10 @@
+Gabriel;sapi;info
+jose;sapiranga;info
+thobias;sapiranga;info
+marina;sapiranga;info
+julia;sapiranga;info
+gabriel;sapiranga;info
+joao g;parobe;info
+eduardo;parobe;info
+isadora;sapiranga;info
+afroldo;piracanjuba;etm
